@@ -1,11 +1,11 @@
-# 🧡 모던 자바스립 딥다이브 스터디
+# ✏️ 모던 자바스립 딥다이브 스터디
 
-<img src="https://www.google.com/aclk?sa=l&ai=DChcSEwiW8925iYeEAxUQGnsHHTMIDugYABAHGgJ0bQ&ase=2&gclid=Cj0KCQiA2eKtBhDcARIsAEGTG42mq4axi-uzhqFfKWJLVafdlpyizVOjJF00YHLaWvcKOf9-x5sp5iAaApD6EALw_wcB&sig=AOD64_2Ty2BDc7Y1Ck-dwksjbwP3CF_szA&ctype=5&nis=6&adurl&ved=2ahUKEwi9m9G5iYeEAxW4gq8BHb8FAwIQvhd6BAgBEEk" width="400px" alt="책 표지" />
+![ModernJS](https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/747dd81d-06eb-41af-bf03-a1fb55ab4f30)
 
 
 ## 👶 스터디 멤버
 
-|  <img src="https://avatars.githubusercontent.com/u/115773895?v=4" width="150">   | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> |
+|  <img src="https://avatars.githubusercontent.com/u/115773895?v=4" width="160">   | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> |
 |:------------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
 |    [이한빈](https://github.com/Clt689)      |       |       |       |
 
