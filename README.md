@@ -1,6 +1,6 @@
 # ✏️ 모던 자바스크립트 딥다이브 스터디
 
-<img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/747dd81d-06eb-41af-bf03-a1fb55ab4f30" width="400" height="350">
+<img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/747dd81d-06eb-41af-bf03-a1fb55ab4f30" width="400" height="380">
 
 
 ## 👶 스터디 멤버
