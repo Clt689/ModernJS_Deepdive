@@ -5,7 +5,7 @@
 
 ## 👶 스터디 멤버
 
-|  <img src="[https://avatars.githubusercontent.com/u/115773895?v=4](https://avatars.githubusercontent.com/u/115773895?v=4)" width="165">   | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> |
+|  <img src="https://avatars.githubusercontent.com/u/115773895?v=4" width="150">   | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> |
 |:------------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
 |    [이한빈](https://github.com/Clt689)      |       |       |       |
 
