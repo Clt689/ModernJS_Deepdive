@@ -1,6 +1,6 @@
 # ✏️ 모던 자바스립 딥다이브 스터디
 
-![ModernJS](https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/747dd81d-06eb-41af-bf03-a1fb55ab4f30)
+<![ModernJS](https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/747dd81d-06eb-41af-bf03-a1fb55ab4f30) width = "300">
 
 
 ## 👶 스터디 멤버
