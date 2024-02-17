@@ -7,7 +7,7 @@
 
 |  <img src="https://avatars.githubusercontent.com/u/115773895?v=4" width="150">   | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> |
 |:------------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
-|    [이한빈](https://github.com/Clt689)      |   [양민준](https://github.com/)    |   [임하라](https://github.com/)    |       |
+|    [이한빈](https://github.com/Clt689)      |   [양민준](https://github.com/gwangminjun)    |   [임하라](https://github.com/dailyhara)    |       |
 
 
 
