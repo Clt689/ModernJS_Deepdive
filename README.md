@@ -5,12 +5,11 @@
 
 ## 👶 스터디 멤버
 
-|  <img src="https://avatars.githubusercontent.com/u/115773895?v=4" width="150">   | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> |
-|  <img src="https://avatars.githubusercontent.com/u/97660495?v=4" width="150">   | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> |
-|  <img src="https://avatars.githubusercontent.com/u/147608999?v=4" width="150">   | <img src="" width="150"> | <img src="" width="150"> | <img src="" width="150"> |
-|    [이한빈](https://github.com/Clt689)      |   [양민준](https://github.com/gwangminjun)    |   [임하라](https://github.com/dailyhara)    |       |
-
-
+| 이름   | GitHub                                         |
+| ------ | ---------------------------------------------- |
+| 이한빈 | [@Clt689](https://github.com/Clt689) |
+| 양민준 | [@gwangminjun](https://github.com/gwangminjun) |
+| 임하라 | [@dailyhara](https://github.com/dailyhara) |
 
 
 ## 🕓 스터디 시간
