@@ -10,6 +10,7 @@
 | 이한빈 | [@Clt689](https://github.com/Clt689) |
 | 양민준 | [@gwangminjun](https://github.com/gwangminjun) |
 | 임하라 | [@dailyhara](https://github.com/dailyhara) |
+| 이현성 |  |
 
 
 ## 🕓 스터디 시간
