@@ -12,7 +12,7 @@
 | 임하라 | [@dailyhara](https://github.com/dailyhara) |
 | 이현성 | [@hyeonseong2023](https://github.com/hyeonseong2023) |
 | 윤옥산 | [@yunoksan](https://github.com/yunoksan) |
-| 신애 | [@Jay](https://github.com/fe-Jay) |
+| 정신애 | [@Jay](https://github.com/fe-Jay) |
 
 ## 🕓 스터디 시간
 
