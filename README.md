@@ -10,14 +10,13 @@
 | 이한빈 | [@Clt689](https://github.com/Clt689) |
 | 양민준 | [@gwangminjun](https://github.com/gwangminjun) |
 | 이현성 | [@hyeonseong2023](https://github.com/hyeonseong2023) |
-| 윤옥산 | [@yunoksan](https://github.com/yunoksan) |
 | 정신애 | [@Jay](https://github.com/fe-Jay) |
 
 ## 🕓 스터디 시간
 
-일시 : 매주 토요일 or 일요일 오후 2시
+일시 : 매주 토요일 or 일요일 오후
 
-장소 : 매회차 변경
+장소 : 동천동 노벨스터디카페
 
 ## 🚩 스터디 공통 목표
 
@@ -28,7 +27,7 @@
 ## 🛒 스터디 전 준비 사항
 
 - 책 읽기
-- 회차 폴더 안에 {이름}_{n회차}.md 파일 안에 공부한 내용 정리하기
+- 회차 폴더 안에 이름/n회차 파일 안에 공부한 내용 정리하기
 
 ## 📚 스터디 진행방식
 
