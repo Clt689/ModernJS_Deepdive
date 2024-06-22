@@ -4,13 +4,31 @@
 
 
 ## 👶 스터디 멤버
+<table>
+<tbody>
 
-| 이름   | GitHub                                         |
-| ------ | ---------------------------------------------- |
-| 이한빈 | [@Clt689](https://github.com/Clt689) |
-| 양민준 | [@gwangminjun](https://github.com/gwangminjun) |
-| 이현성 | [@hyeonseong2023](https://github.com/hyeonseong2023) |
-| 정신애 | [@Jay](https://github.com/fe-Jay) |
+<tr>
+<td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/cb61a4ec-4823-42c0-a311-37d8e9dfce6f" width="150" /></td>
+<td align="center"><img src="" width="150" /></td>
+<td align="center"><img src="" width="150" /></td>
+<td align="center"><img src="" width="150" /></td>
+</tr>
+<tr>
+<th align="center">이한빈</th>
+<th align="center">양민준</th>
+<th align="center">이현성</th>
+<th align="center">정신애</th>
+</tr>
+<tr>
+<td align="center" width="170"><a href="https://github.com/Clt689">@Clt689</a></td>
+<td align="center" width="170"><a href="https://github.com/gwangminju">@gwangminjun</a></td>
+<td align="center" width="170"><a href="https://github.com/hyeonseong2023">@hyeonseong2023</a></td>
+<td align="center" width="170"><a href="https://github.com/fe-Jay">@Jay</a></td>
+</tr>
+</tbody>
+</table>
+
+</div>
 
 ## 🕓 스터디 시간
 
