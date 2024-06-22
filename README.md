@@ -11,7 +11,7 @@
 <td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/cb61a4ec-4823-42c0-a311-37d8e9dfce6f" width="150" /></td>
 <td align="center"><img src="" width="150" /></td>
 <td align="center"><img src="" width="150" /></td>
-<td align="center"><img src="" width="150" /></td>
+<td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/1f9ea4e9-61dd-4d17-b339-4a2e0dc75f70" width="150" /></td> 
 </tr>
 <tr>
 <th align="center">이한빈</th>
