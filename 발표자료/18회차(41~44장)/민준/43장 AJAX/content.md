@@ -1,14 +1,32 @@
 # 43장 Ajax
-Ajax 란 자바스크립트를 사용하여 브라우저가 서버에게 비동기 방식으로 데이터를 요청하고 서버가 응답한 데이터를 수신하여 웹페이지를 동적으로 갱신하는 프로그래밍 방식
-
+Ajax 란 자바스크립트를 사용하여 브라우저가 서버에게 비동기 방식으로 데이터를 요청하고 서버가 응답한 데이터를 수신하여 웹페이지를 동적으로 갱신하는 프로그래밍 방식<br>
 Ajax 는 web API 인 XMLHttpRequest 객체를 기반으로 동작한다
 
 ## JSON
 클라이언트와 서버간의 http 통신을 위한 텍스트 데이터 포멧이다.
 
-## XMLHttpRequest
-자바스크립트를 사용하여 http 요청을 전송하려면 XMLHttpRequest 객체를 사용한다. 
+### JSON 표기 방식
+JSON은 자바스크립트의 객체 리터럴과 유사하게 키와 값으로 구성된 순수한 텍스트다.
+```json
+{
+  "name": "minjun",
+  "age": 28, 
+  "alive": true,
+  "hobby": ["java", "openLayers"]
+}
+```
+### JSON.stringify
+![img.png](img.png)
 
+JSON.stringify 메서드는 객체를 JSON 포맷의 문자열로 변환한다.
+### JSON.parse
+![img_1.png](img_1.png)
+
+JSON.parse 메서드는 JSON 포맷의 문자열을 객체로 변환한다.
+
+
+## XMLHttpRequest
+자바스크립트를 사용하여 http 요청을 전송하려면 XMLHttpRequest 객체를 사용한다.
 MLHttpRequest 객체는 생성자 함수를 호출하여 생성한다.
 
 ```javascript
@@ -55,11 +73,10 @@ xhr.open(method, url[, async]);
 open 메서드로 초기화된 http 요청을 서버에 전송한다.
 - get 
     - 데이터를 url 일부분인 쿼리 문자열(query string)로 전송한다.
-
 - post 
     - 데이터(페이로드)를 요청몸체(body)에 담아 전송한다.
 
-## 페이로드
+## payload
 보내고자 하는 데이터 자체
 
 운송업에서 비롯하였는데, 지급(pay)해야 하는 적화물(load)을 의미합니다. 
